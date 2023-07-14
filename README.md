@@ -5,7 +5,7 @@
 <div align=left>
 	<h3>📚 <b>Tech Stack</b> 📚</h3>
     <hr>
-	<p><b>1. Platforms & Languages</b></p>
+	<p><b>1. Languages & Platforms</b></p>
 </div>
 <div align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
@@ -15,22 +15,24 @@
 <br>
 <div align=left>
 	<p><b>2. Tools</b></p>
-</div>
-<div align=left>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-    <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=Pycharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLion-143A56?style=flat&logo=clion&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyCharm-0073B7?style=flat&logo=Pycharm&logoColor=white" />
 </div>
 <br>
 <div align=left>
 	<p><b>3. SNS & Portfolio</b></p>
-</div>
-<div align=left>
     <a href="https://github.com/dachaes">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
     </a>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	<br>
+    <img src="https://img.shields.io/badge/Notion-FFA500?style=flat&logo=Notion&logoColor=white" />
+</div>
+<br>
+<div align=left>
+	<p><b>4. Contact</b></p>
+    <a href="https://www.naver.com">
+        <img src="https://img.shields.io/badge/tamizy@naver.com-03C75A?style=flat&logo=Naver&logoColor=white" />
+    </a>
 </div>
 <br>
 <div align=left>
@@ -42,6 +44,9 @@
     <br>
     <br>
     <p><b>2. BaekJoon Solved Rank</b></p>
+    <a href="https://solved.ac/dachae">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dachae">
+    </a>
     <a href="https://solved.ac/dachae">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dachae">
     </a>
