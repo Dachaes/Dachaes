@@ -7,9 +7,13 @@
 	<h3>😆 <b>Who am I</b></h3>
     <hr>
 	<p><b>1. NAME</b> : SoHyeon Jeon</p>
-    <p><b>2. BIRTH</b> : 04.21. South Korea</p>
-    <p><b>3. MAJOR</b> : Electronic Engineering</p>
-    <p><b>4. MBTI</b> : ISTP</p>
+    <p><b>2. BIRTH DATE</b> : 04.21.1997</p>
+    <p><b>3. RESIDES</b> : South Korea</p>
+    <p><b>4. MAJOR</b> <br></p>
+    <p style="text-indent:20px line-height:5px"> 1. Feb 2021 - Mar 2016 <br>
+    Korea University of Technology and Education, Bachelor of Electronic Engineering<br>
+    2. Dec 2021 - Oct 2020, NuriLine</p>
+    <p><b>5. MBTI</b> : ISTP</p>
 </div>
 
 <br>
