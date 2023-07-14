@@ -43,11 +43,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dachaes&show_icons=true">
     <br>
     <br>
-    <p><b>2. BaekJoon Solved Rank - </b>
-        <a href="https://solved.ac/dachae">
-            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dachae">
-        </a>
-    </p>
+    <p><b>2. BaekJoon Solved Rank</b></p>
+    <a href="https://solved.ac/dachae">
+        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dachae">
+    </a>
+    <br>
     <a href="https://solved.ac/dachae">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dachae">
     </a>
