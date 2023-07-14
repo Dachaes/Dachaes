@@ -33,13 +33,14 @@
 	<br>
 </div>
 <br>
-<hr>
 <div align=left>
+	<h3>📚 <b>GitHub & BaekJoon</b> 📚</h3>
+    <hr>
     <p><b>1. GitHub 정보</b> </p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachaes&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=dachaes&show_icons=true">
     <br>
     <br>
-    <p><b>2. Baekjoon solved rank</b></p>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dachae)](https://solved.ac/dachae/)
+    <p><b>2. BaekJoon solved rank</b></p>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dachae)](https://solved.ac/dachae)
 </div>
