@@ -40,7 +40,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dachaes&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=dachaes&show_icons=true">
     <br>
+    <br>
     <p><b>2. BaekJoon solved rank</b></p>
-    ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dachae)
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dachae)](https://solved.ac/dachae)
+    <a href="https://solved.ac/dachae">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dachae">
+    </a>
 </div>
