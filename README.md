@@ -8,7 +8,7 @@
 	<p><b>1. Languages & Platforms</b></p>
 </div>
 <div align="left">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=p&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
@@ -43,10 +43,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dachaes&show_icons=true">
     <br>
     <br>
-    <p><b>2. BaekJoon Solved Rank</b></p>
-    <a href="https://solved.ac/dachae">
-        <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dachae">
-    </a>
+    <p><b>2. BaekJoon Solved Rank - </b>
+        <a href="https://solved.ac/dachae">
+            <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=dachae">
+        </a>
+    </p>
     <a href="https://solved.ac/dachae">
         <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dachae">
     </a>
