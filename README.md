@@ -29,7 +29,7 @@
 </div>
 <br>
 <div align=left>
-	<p><b>4. Contact</b></p>
+	<p><b>4. Contacts</b></p>
     <a href="https://www.naver.com">
         <img src="https://img.shields.io/badge/tamizy@naver.com-03C75A?style=flat&logo=Naver&logoColor=white" />
     </a>
