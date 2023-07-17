@@ -12,10 +12,9 @@
     <p><b>3. RESIDES</b></p>
     <p style="margin-left:20px; line-height:10px">South Korea</p>
     <p><b>4. MAJOR</b> <br></p>
-    <p style="margin-left:20px; line-height:20px;"> 1. Feb 2021 - Mar 2016 <br>
-    : Bachelor of Electronic Engineering<br>
-    2. Dec 2021 - Oct 2020 <br> : <a href="http://nuriline.com/">Nuri-Line</a><br>
-    3. JUL 2023 - <br> : <a href="https://www.ssafy.com/">Samsung Software Academy For Youth [SSAFY]</a> 10기</p>
+    <p style="margin-left:20px; line-height:20px;"> 1. Feb 2021 - Mar 2016 :: Bachelor of Electronic Engineering<br>
+    2. Dec 2021 - Oct 2020 :: <a href="http://nuriline.com/">Nuri-Line</a><br>
+    3. JUL 2023 -   :: <a href="https://www.ssafy.com/">Samsung Software Academy For Youth [SSAFY]</a> 10기</p>
 </div>
 <br>
 <div align=left>
