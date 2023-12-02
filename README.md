@@ -31,10 +31,10 @@
     <p><b>2. Tools</b></p>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
     <img src="https://img.shields.io/badge/CLion-143A56?style=flat&logo=clion&logoColor=white">
-    <img src="https://img.shields.io/badge/PyCharm-0073B7?style=flat&logo=Pycharm&logoColor=white">
+    <img src="https://img.shields.io/badge/PyCharm-0073B7?style=flat&logo=Pycharm&logoColor=white"><br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><br>
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
