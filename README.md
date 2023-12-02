@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=p&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </div>
 <br>
 <div align=left>
@@ -34,9 +34,9 @@
     <img src="https://img.shields.io/badge/PyCharm-0073B7?style=flat&logo=Pycharm&logoColor=white"><br>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
-    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 </div>
 <br>
