@@ -8,7 +8,7 @@
     <p><b>1. NAME</b></p>
     <p style="margin-left:20px; line-height:10px">SoHyeon Jeon</p>
     <p><b>2. BIRTH DATE</b></p>
-    <p style="margin-left:20px; line-height:10px">04.21.1997</p>
+    <p style="margin-left:20px; line-height:10px">1997.04.21.</p>
     <p><b>3. RESIDES</b></p>
     <p style="margin-left:20px; line-height:10px">South Korea</p>
     <p><b>4. MAJOR</b> <br></p>
@@ -26,6 +26,11 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">
 </div>
 <br>
 <div align=left>
